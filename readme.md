@@ -34,4 +34,5 @@ The main findings with the answers of the questions can be found [here](https://
 Must give credit to Udacity-Data Science Nanodegree for the knowledge and the techniques for the manipulation of the data. 
 You can find the Licensing for the data and other descriptive information at the [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle) link available here. 
 Feel free to use the code here as you would like!
+
 [Link Repository Github](https://github.com/thomasredz/airbnb-seattle)
