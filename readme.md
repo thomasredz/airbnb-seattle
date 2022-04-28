@@ -20,7 +20,7 @@ The questions are answered in one Jupyter Notebook where you can see the full an
 However the source files are available on [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle).
 
 # Results
-The main findings with the answers of the questions can be found [here]().
+The main findings with the answers of the questions can be found [here](https://medium.com/@thomasredz/so-you-wanna-list-a-property-on-the-airbnb-market-maybe-this-can-help-ffcbda1b4da0).
 
 # License
 Must give credit to Udacity-Data Science Nanodegree for the knowledge and the techniques for the manipulation of the data. 
